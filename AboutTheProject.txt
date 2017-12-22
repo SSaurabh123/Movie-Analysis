@@ -1,0 +1,11 @@
+this project aims for analyzing the movie dataset consist of problem statement given in the file (ProblemStatement.txt).
+
+for Analyzing this dataset apache pig is used on the cloudera distribution.
+
+the solutions to the problem statement are given in (ProblemSolutions.txt)
+
+this dataset is also analyzed graphically using R along with  prediction is also done on this dataset.the code is present in the file(MoviePrediction.R)
+
+the analytics on this project is done using hadoop concept.
+
+MovieDataset folder contain required dataset for analysis.
